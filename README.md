@@ -1,4 +1,4 @@
-# sobre min
+# sobre mim
 
 - 👋 oi, meu nome é @tioohtake
 - 👀 estou interessado para aprender coisas novas...
